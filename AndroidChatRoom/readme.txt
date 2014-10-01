@@ -13,5 +13,7 @@ This is an online chatting example for android device.
 4. After entering a nickname, you will enter a chatting room. You can see anyone 
 speaking in this chatting room
 
+Please take to look at AndroidChatRoomApp.pdf to learn about this app.
+
 
 Thank you!
